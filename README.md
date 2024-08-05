@@ -1,2 +1,2 @@
-# credit_card_financial_dashboard-analysis
-credit card financial dashboard analysis using power BI
+# Credit_Card_Financial_Dashboard_Using_PowerBi
+PowerBi Dashboard of Credit Card company. Analysis of Weekly Report
